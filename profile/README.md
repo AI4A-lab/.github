@@ -110,4 +110,4 @@ Stay updated with our latest projects and news by following us on social media:
 Together, we can create AI for a better tomorrow! 🌍✨
 
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AI4A-lab&label=Page+Views&label=Profile%20views&color=blue&style=for-the-badge" alt="AI4A Lab" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AI4A-lab&label=Page+Views&color=blue&style=for-the-badge" alt="AI4A Lab" /> </p>
