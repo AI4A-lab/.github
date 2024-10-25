@@ -1,8 +1,6 @@
 # 🌟 Artificial Intelligence for Advancement Lab (AI4A Lab) 🌟
 Welcome to the **AI4A Lab** (Artificial Intelligence for Advancement Lab) at **Manipal University Jaipur**! Our mission is to drive the future of Artificial Intelligence, building innovative AI technologies to advance society and push the boundaries of research in the field. 
 
----
-
 ## 🎯 Mission & Vision
 At AI4A Lab, we are dedicated to the **advancement of AI research and development** to solve real-world problems and contribute to human progress. Our focus spans across:
 - 🤖 **Artificial Intelligence (AI)**
@@ -15,14 +13,12 @@ At AI4A Lab, we are dedicated to the **advancement of AI research and developmen
 ### Our Vision:  
 > To pioneer the development of cutting-edge AI solutions that can be deployed across various industries, promoting **sustainability, equity, and the betterment of society**.
 
----
 
 ## 🏛️ About Us
 The AI4A Lab is based at **Manipal University Jaipur, India** and is comprised of professors, researchers, engineers, and students collaborating to push forward **high-quality AI research**. We work with a variety of stakeholders to deliver impactful research and tools that address challenges in healthcare, environment, education, and more. 
 
 We focus on creating not just new technologies but **responsible AI solutions** that consider ethics, safety, and long-term human impact.
 
----
 
 ## 🔬 Research Focus Areas
 Our lab's projects span a wide range of **AI subfields**, some of which include:
@@ -39,7 +35,6 @@ Our lab's projects span a wide range of **AI subfields**, some of which include:
 - **AI for Social Good** 🌍  
   Using AI to tackle challenges like climate change, healthcare accessibility, and education, to ensure **inclusive and sustainable development**.
 
----
 
 ## 📈 Our Goals
 At AI4A Lab, we are committed to:
@@ -49,7 +44,6 @@ At AI4A Lab, we are committed to:
 - 🤝 **Collaborating with industry** to translate research into real-world applications.
 - 🌍 **Promoting AI for the betterment of society**, ensuring inclusivity, ethical AI usage, and sustainable practices.
 
----
 
 ## 🚀 Key Projects & Initiatives
 1. **AI4Interview** 🏥  
@@ -57,8 +51,6 @@ At AI4A Lab, we are committed to:
 
 2. **LLMs as Graders** 📚  
    Building LLM based AI tools for automatic grading, learning assistance, and personalized learning systems.
-
----
 
 <!--
 ---
@@ -96,9 +88,7 @@ At AI4A Lab, we believe in **collaborative research** and **cross-disciplinary p
 We are always open to new ideas, collaborations, and opportunities. If you are a researcher, student, or industry expert interested in working with us, feel free to reach out!
 
 📧 Email: [ai4a.lab@outlook.com](mailto:ai4a.lab@outlook.com)  
-🌐 Website: [www.ai4a-lab.github.io](www.AI4A-lab.github.io)
-
----
+🌐 Website: [www.ai4a-lab.github.io](#)
 
 ## 📱 Follow Us
 Stay updated with our latest projects and news by following us on social media:  
@@ -107,7 +97,7 @@ Stay updated with our latest projects and news by following us on social media:
 
 ---
 
-Together, we can create AI for a better tomorrow! 🌍✨
+<p align="center">Together, we can create AI for a better tomorrow! 🌍✨</p>
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AI4A-lab&label=Page+Views&color=blue&style=for-the-badge" alt="AI4A Lab" /> </p>
