@@ -92,7 +92,7 @@ We are always open to new ideas, collaborations, and opportunities. If you are a
 
 ## 📱 Follow Us
 Stay updated with our latest projects and news by following us on social media:  
-- **LinkedIn**: [AI4A Lab](#)  
+- **LinkedIn**: [AI4A Lab](https://www.linkedin.com/company/ai4a-lab)  
 - **GitHub**: [AI4A Lab GitHub Organization](https://github.com/AI4A-lab)
 
 ---
