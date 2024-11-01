@@ -1,5 +1,14 @@
-# 🌟 Artificial Intelligence for Advancement Lab (AI4A Lab) 🌟
-Welcome to the **AI4A Lab** (Artificial Intelligence for Advancement Lab) at **Manipal University Jaipur**! Our mission is to drive the future of Artificial Intelligence, building innovative AI technologies to advance society and push the boundaries of research in the field. 
+<h1 align="center">
+  <img src="files/images/banner1.png" align="center" alt="AI4A Lab">
+  </br>
+  </br>
+  🌟 Artificial Intelligence for Advancement Lab (AI4A Lab) 🌟
+</h1>
+
+<p align="center">
+  Welcome to the <b>AI4A Lab</b> (Artificial Intelligence for Advancement Lab) at <b>Manipal University Jaipur</b>! Our mission is to drive the future of Artificial Intelligence, building innovative AI technologies to advance society and push the boundaries of research in the field.
+</p>
+
 
 ## 🎯 Mission & Vision
 At AI4A Lab, we are dedicated to the **advancement of AI research and development** to solve real-world problems and contribute to human progress. Our focus spans across:
