@@ -1,0 +1,76 @@
+{
+  "projects": [
+      {
+          "id": "project-1",
+          "name": "AI4Interview",
+          "shortDescription": "AI-driven framework for personality identification and interview quality assessment for better hiring assessment.",
+          "fullDescription": "Our AI4Interview project focuses on enhancing recruitment processes by leveraging AI technologies to evaluate candidates' personalities and quantify interview quality.\n\nKey Objectives:\n- Personality Identification: Developing AI models to analyze interview responses and infer personality traits based on behavioral cues.\n- Interview Quality Assessment: Creating metrics to objectively evaluate the quality and effectiveness of interviews.\n- Improving Recruitment Efficiency: Streamlining the hiring process with data-driven insights for better candidate selection.",
+          "coverImage": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Project/Interview/main.png?raw=true",
+          "additionalImages": [
+              "https://github.com/AI4A-lab/.github/blob/main/website/Images/Project/Interview/other_1.png?raw=true"
+          ],
+          "researchers": [
+              "Dr. Sandeep Chaurasia",
+              "Dr. Amit Kumar Gupta",
+              "Farhan Sheth",
+              "Hammad Shaikh",
+              "Dheeraj Kumar",
+              "Aditya Jha"
+          ],
+          "technologies": [
+        "Natural Language Processing",
+        "Computer Vision",
+        "Deep Learning",
+        "PyTorch",
+        "OpenCV",
+        "Transformers"
+          ],
+          "externalLinks": [
+              {
+                  "name": "Data Labeling Platform",
+                  "url": "https://github.com/Phantom-fs/QA-Labeler"
+              },
+              {
+                  "name": "Data Collection Platform",
+                  "url": "https://github.com/Phantom-fs/QAVideoShare"
+              }
+          ]
+      },
+      {
+          "id": "project-2",
+          "name": "LLMs as Assessors",
+          "shortDescription": "AI tools for automatic grading, learning assistance, and personalized education systems.",
+          "fullDescription": "Our LLMs as Assessor or Evaluators (LaE) project harnesses the power of large language models to revolutionize education through automation and personalization.\n\nKey Focus Areas:\n- Automatic Grading: Utilizing LLMs to evaluate student answers with consistency and accuracy.\n- Learning Assistance: Providing students with tailored feedback and resources for self-improvement.\n- Personalized Education: Building systems that adapt to individual learning styles and needs.",
+          "coverImage": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Project/LaE/main.jpg?raw=true",
+          "additionalImages": [
+            "https://github.com/AI4A-lab/.github/blob/main/website/Images/Project/LaE/other_1.png?raw=true",
+            "https://github.com/AI4A-lab/.github/blob/main/website/Images/Project/LaE/other_2.jpg?raw=true"
+         ],
+          "researchers": [
+            "Dr. Sandeep Chaurasia",
+            "Dr. Amit Kumar Gupta",
+            "Farhan Sheth",
+            "Hammad Shaikh",
+            "Dheeraj Kumar",
+            "Shresth Shroff"
+          ],
+          "technologies": [
+            "Natural Language Processing",
+            "Deep Learning",
+            "VLMs",
+            "LLMs",
+            "Transformers"
+          ],
+          "externalLinks": [
+              {
+                  "name": "Data Collection Platform",
+                  "url": "https://github.com/AI4A-lab/LaE-QnA"
+              },
+              {
+                  "name": "Answer Grading Platform",
+                  "url": "https://github.com/AI4A-lab/LaE-Amark"
+              }
+          ]
+      }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+    {
+      "title": "Advancing Geological Image Segmentation: Deep Learning Approaches for Rock Type Identification and Classification",
+      "authors": ["Amit Kumar Gupta", "Priya Mathur", "Farhan Sheth", "Carlos M. Travieso-Gonzalez", "Sandeep Chaurasia"],
+      "link": "https://doi.org/10.1016/j.acags.2024.100192",
+      "journal": "Applied Computing and Geosciences (Elsevier)",
+      "jc_link": "https://www.scopus.com/sourceid/21101075727",
+      "year": "2024",
+      "tags": ["AI", "Deep Learning", "Computer Vision", "Geosciences"]
+    },
+    {
+      "title": "Discrete mathematical models for enhancing cybersecurity: A mathematical and statistical analysis of machine learning approaches in phishing attack detection",
+      "authors": ["Dinesh Goyal", "Farhan Sheth", "Priya Mathur", "Amit Kumar Gupta"],
+      "link": "https://doi.org/10.47974/JDMSC-1893",
+      "journal": "Journal of Discrete Mathematical Sciences and Cryptography",
+      "jc_link": "https://www.scopus.com/sourceid/19700186892",
+      "year": "2024",
+      "tags": ["Machine Learning", "Cryptography", "Cybersecurity", "Statistics"]
+    },
+    {
+      "title": "Deep insight: Mathematical modeling and statistical analysis for mango leaf disease classification using advanced deep learning models",
+      "authors": ["Priya Mathur", "Farhan Sheth", "Dinesh Goyal", "Amit Kumar Gupta"],
+      "link": "https://doi.org/10.47974/JIM-1830",
+      "journal": "Journal of Interdisciplinary Mathematics",
+      "jc_link": "https://www.scopus.com/sourceid/19700186891",
+      "year": "2024",
+      "tags": ["Machine Learning", "Deep Learning", "Computer Vision", "Agriculture", "Botany"]
+    }
+  ]

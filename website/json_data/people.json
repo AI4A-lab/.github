@@ -1,0 +1,97 @@
+{
+    "professors": [
+      {
+        "name": "Dr. Sandeep Chaurasia",
+        "role": "Professor & Director",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/1_Supervisior/Sandeep%20Chaurasia.jpg?raw=true",
+        "email": "sandeep.chaurasia@jaipur.manipal.edu",
+        "interests": "Algorithms, Artificial Intelligence, Natural Processing Language, Deep Learning",
+        "links": {
+          "scholar": "https://scholar.google.co.in/citations?user=nk0tQNwAAAAJ&hl=en",
+          "linkedin": "https://www.linkedin.com/in/sandeep-chaurasia-0457568a/",
+          "muj": "https://jaipur.manipal.edu/foe/director-scse.php",
+          "email": "sandeep.chaurasia@jaipur.manipal.edu"
+        }
+      },
+      {
+        "name": "Dr. Amit Kumar Gupta",
+        "role": "Associate Professor",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/1_Supervisior/Amit%20Kumar%20Gupta.jpg?raw=true",
+        "email": "amit.gupta@jaipur.manipal.edu",
+        "interests": "Artificial Intelligence, Machine Learning, Deep Learning",
+        "links": {
+          "scholar": "https://scholar.google.com/citations?user=GtBl274AAAAJ&hl=en",
+          "linkedin": "https://www.linkedin.com/in/dr-amit-kumar-gupta-6b170891/",
+          "email": "amit.gupta@jaipur.manipal.edu",
+          "muj": "https://jaipur.manipal.edu/foe/department-of-Computer-Science-Engineering.php"
+        }
+      }
+    ],
+    "teamLead": [
+      {
+        "name": "Farhan Sheth",
+        "role": "Team Lead",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/2_Lead/Farhan%20Sheth.jpg?raw=true",
+        "email": "farhanseth.jb@gmail.com",
+        "interests": "Deep Learning, Computer Vision, Machine Learning, Natural Language Processing, XAI",
+        "links": {
+          "scholar": "https://scholar.google.com/citations?user=ZeKCtQQAAAAJ&hl=en",
+          "linkedin": "https://www.linkedin.com/in/farhan-sheth/",
+          "github": "https://github.com/Phantom-fs",
+          "email": "farhanseth.jb@gmail.com"
+        }
+      }
+    ],
+    "seniorLead": [
+      {
+        "name": "Dheeraj Kumar",
+        "role": "Senior Member",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/3_Senior_Member/Dheeraj%20Kumar.jpg?raw=true",
+        "email": "skumardheeraj.21@gmail.com",
+        "interests": "Machine Learning, Deep Learning, Web Development",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/dheeraj-kumar-bb1184262/",
+          "github": "https://github.com/Dheeraj21K",
+          "email": "skumardheeraj.21@gmail.com"
+        }
+      },
+      {
+        "name": "Hammad Shaikh",
+        "role": "Senior Member",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/3_Senior_Member/Hammad%20Shaikh.jpg?raw=true",
+        "email": "hammad.shaikh1105@gmail.com",
+        "interests": "Machine Learning, Deep Learning, Computer Vision",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/hammad-shaikh1105/",
+          "github": "https://github.com/Hammad-1105",
+          "email": "hammad.shaikh1105@gmail.com"
+        }
+      }
+    ],
+    "juniorLead": [
+      {
+        "name": "Aditya Jha",
+        "role": "Member",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/4_Member/Aditya%20Jha.jpg?raw=true",
+        "email": "2005akjha@gmail.com",
+        "interests": "Machine Learning, Deep Learning, Computer Vision",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/aditya-jha-654800280/",
+          "github": "https://github.com/adityajha2005",
+          "email": "2005akjha@gmail.com"
+        }
+      },
+      {
+        "name": "Shresth Shroff",
+        "role": "Member",
+        "image": "https://github.com/AI4A-lab/.github/blob/main/website/Images/Team/4_Member/Shresth%20Shroff.jpg?raw=true",
+        "email": "shresthshroffx7906@gmail.com",
+        "interests": "Deep Learning, Computer Vision, Blockchain Systems, Mechas",
+        "links": {
+          "linkedin": "http://linkedin.com/in/shresth-shroff-8188b229b/",
+          "github": "https://github.com/Shroffx",
+          "email": "shresthshroffx7906@gmail.com"
+        }
+      }
+    ]
+  }
