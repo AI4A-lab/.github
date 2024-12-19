@@ -18,12 +18,11 @@
               "Aditya Jha"
           ],
           "technologies": [
-        "Natural Language Processing",
         "Computer Vision",
         "Deep Learning",
-        "PyTorch",
-        "OpenCV",
-        "Transformers"
+        "NLP",
+        "VLMs",
+        "Video Models"
           ],
           "externalLinks": [
               {
@@ -55,11 +54,10 @@
             "Shresth Shroff"
           ],
           "technologies": [
-            "Natural Language Processing",
             "Deep Learning",
+            "NLP",
             "VLMs",
-            "LLMs",
-            "Transformers"
+            "LLMs"
           ],
           "externalLinks": [
               {
